@@ -1,0 +1,33 @@
+.pxx {
+    width: 50%;
+}
+
+.ppr {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    color: black;
+    box-shadow: inset 0 0 0 0 #000;
+    
+}
+
+a:hover {
+    color: dimgrey;
+    transition: color .25s ease-in-out,box-shadow .3s ease-in-out;
+    
+
+}
+.link {
+    box-sizing: border-box;
+    
+}
