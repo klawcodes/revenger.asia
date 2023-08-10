@@ -46,3 +46,9 @@ img {
         width: 80%;
     }
 }
+
+@media screen and (max-width: 540px) {
+    .pxx {
+        width: 80%;
+    }
+}
