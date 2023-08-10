@@ -54,7 +54,7 @@ const Project = () => {
                         IN THE MIDDLE OF THE NIGHT (PEGASUS)
                     </text>
                     <p>animation, lighting, rigging, and 3d modeling in collaboration with <a target="_blank" href="https://www.instagram.com/sxtnstudio_">@sxtnstudio_</a>, <a target="_blank" href="https://www.instagram.com/_lokiloki___">@_lokiloki___</a>, <a target="_blank" href="https://www.instagram.com/dat.krom.boi">@dat.krom.boi</a></p>
-                    <a target="_blank" href="https://www.instagram.com/p/Couv2bOpacQ/">Original post on Instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/p/Cut5wK-SbFT/?img_index=1">Original post on Instagram</a>
                 </div>
             </div>
             
