@@ -2,6 +2,7 @@ import React, {useState, useRef, useEffect} from "react";
 import "./project.css"
 import kereb from '../media/KEREB 2.webm'
 import giv from '../media/rxbxg.webm'
+import pega from '../media/collab.webm'
 import skrill from '../media/RIOT-x-Skrill.webm'
 
 const Project = () => {
@@ -41,6 +42,18 @@ const Project = () => {
                         GOOD SPACE
                     </text>
                     <p>animation, lighting, and 3d modeling character from Alfred Pietroni using music from Skrillex ft. Starrah - Good Space</p>
+                    <a target="_blank" href="https://www.instagram.com/p/Couv2bOpacQ/">Original post on Instagram</a>
+                </div>
+            </div>
+            <div className="vid">
+                <video data-setup='{}' autoPlay="true" loop="true" muted="true" playsInline>
+                    <source src={pega} type="video/webm" />
+                </video>
+                <div className="text">
+                    <text>
+                        IN THE MIDDLE OF THE NIGHT (PEGASUS)
+                    </text>
+                    <p>animation, lighting, rigging, and 3d modeling in collaboration with <a target="_blank" href="https://www.instagram.com/sxtnstudio_">@sxtnstudio_</a>, <a target="_blank" href="https://www.instagram.com/_lokiloki___">@_lokiloki___</a>, <a target="_blank" href="https://www.instagram.com/dat.krom.boi">@dat.krom.boi</a></p>
                     <a target="_blank" href="https://www.instagram.com/p/Couv2bOpacQ/">Original post on Instagram</a>
                 </div>
             </div>
