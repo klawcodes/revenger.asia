@@ -53,11 +53,11 @@ text {
     .text {
         padding-top: 20px;
         width: 150%;
-        margin-right: 80px;
+        margin-right: 100px;
     }
 
     text {
-        font-size: 35px;
+        font-size: 70px;
     }
 }
 
