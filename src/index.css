@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+::selection {
+  /* Change highlight background color to black */
+  background: #000;
+  /* Change highlight text color to red */
+  color: #ff0000;
+}
