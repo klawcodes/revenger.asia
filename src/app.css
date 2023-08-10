@@ -41,7 +41,7 @@ img {
     justify-content: center; 
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 424px) {
     .pxx {
         width: 80%;
     }

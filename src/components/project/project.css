@@ -30,7 +30,7 @@ text {
     font-size: 60px;
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 424px) {
     .vid {
         display: flex;
         flex-direction: column;
