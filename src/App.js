@@ -15,7 +15,7 @@ function App() {
             </div>
             <div className='t'>
               <div className='link'>
-                <a id="link" target="_blank" href="mailto:riot@revenger.asia">Contact</a>
+                <a target="_blank" href="mailto:riot@revenger.asia">Contact</a>
               </div>
               <div className='link'>
                 <a id="link" target="_blank" href="https://instagram.com/riotrevenger">Instagram</a>
