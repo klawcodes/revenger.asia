@@ -17,15 +17,33 @@ p {
     text-align: justify;
 }
 
+#link {
+    color: black;
+    height: 0;
+}
+
 a {
     color: black;
-    
+}
+
+#link:hover {
+    color: red;
+    display: inline-block;
+    height: 18px;
+    background-color: black;
+    transition: color .25s ease-in-out,box-shadow .3s ease-in-out;
+    transition: height .25s cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
 a:hover {
-    color: dimgrey;
-    transition: color .25s ease-in-out,box-shadow .3s ease-in-out;
+    color: white;
+    animation: hovera .15s infinite;
 }
+
+@keyframes hovera {
+    from {color: white;}
+    to {color: black;}
+  }
 .link {
     box-sizing: border-box;
     

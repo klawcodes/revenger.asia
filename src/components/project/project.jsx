@@ -18,7 +18,7 @@ const Project = () => {
                         *WORLD TRANSMUTATION*
                     </text>
                     <p>3D modeling, animation, lighting, and rendering using SVDDEN DEATH's song "KEREBEROT"</p>
-                    <a target="_blank" href="https://www.instagram.com/p/Ct_iDdQyAjd/?img_index=1">Original post on Instagram</a>
+                    <a  target="_blank" href="https://www.instagram.com/p/Ct_iDdQyAjd/?img_index=1">Original post on Instagram</a>
                 </div>
             </div>
             <div className="vid">

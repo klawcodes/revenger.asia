@@ -1,11 +1,29 @@
 .foot {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: end;
+    justify-content: center;
 }
 
 #footer {
     font-weight: 100;
     font-size: small;
-    padding-right: 20px;
 }
+#proud {
+    color: black;
+    font-weight: 100;
+    font-size: small;
+}
+
+#proud:hover {
+    color: red;
+    display: inline-block;
+    background-color: black;
+    transition: color .25s ease-in-out,box-shadow .3s ease-in-out;
+    animation: collor .1s infinite;
+}
+
+@keyframes collor {
+    from {background-color: white;}
+    to {background-color: black;}
+  }

@@ -15,16 +15,16 @@ function App() {
             </div>
             <div className='t'>
               <div className='link'>
-                <a target="_blank" href="">Contact</a>
+                <a id="link" target="_blank" href="mailto:riot@revenger.asia">Contact</a>
               </div>
               <div className='link'>
-                <a target="_blank" href="https://instagram.com/riotrevenger">Instagram</a>
+                <a id="link" target="_blank" href="https://instagram.com/riotrevenger">Instagram</a>
               </div>
               <div className='link'>
-                <a target="_blank" href="https://x.com/RIOTREVENGER">X</a>
+                <a id="link" target="_blank" href="https://x.com/RIOTREVENGER">X</a>
               </div>
               <div className='link'>
-                <a target="_blank" href="https://rarible.com/riotrevenger">Rarible</a>
+                <a id="link" target="_blank" href="https://rarible.com/riotrevenger">Rarible</a>
               </div>
             </div>
           </div>
