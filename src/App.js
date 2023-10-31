@@ -26,6 +26,9 @@ function App() {
               <div className='link'>
                 <a id="link" target="_blank" href="https://rarible.com/riotrevenger">Rarible</a>
               </div>
+              <div className='link'>
+                <a id="link" target="_blank" href="https://www.behance.net/riot-revenger">Behance</a>
+              </div>
             </div>
           </div>
         </div>
