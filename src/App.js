@@ -1,5 +1,5 @@
 import './app.css';
-import riotlogo from './components/media/rogo.webp'
+import riotlogo from './components/media/DEATH METAL RIOT.png'
 
 function App() {
   return (
